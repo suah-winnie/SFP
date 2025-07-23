@@ -4,6 +4,6 @@
 # Insert your code here
 
 # Call the function
-my_function()
 def my_function():
-    print ("Hi Marvin!")
+    print("Hi Marvin!")
+my_function()
